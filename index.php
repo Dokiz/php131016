@@ -6,7 +6,7 @@
  * Time: 15:10
  */
 require_once 'MyClass.php';
-$obj= New MyClass (5,2);
+$obj= New MyClass (13,6);
 $obj -> umn();
 $as = $obj -> vivod();
 echo $as;

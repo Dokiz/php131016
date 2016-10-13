@@ -19,7 +19,7 @@ class MyClass {
         return $this -> c;
     }
     function izm() {
-        $this -> c = $this -> c + 1;
+        $this -> c = $this -> c + 4;
         return $this ->c;
     }
     function __destruct() {
